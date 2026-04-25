@@ -29,11 +29,11 @@
       "mensaje": "El mejor conocimiento es el que se comparte",
       "rol": "developer",
       "libertad_favorita": "3"
-    },
-      {
-      "nombre": "Marcelo Roldan",
+    }
+    {
+      "nombre": "Franco Monzon",
       "ciudad": "Buenos Aires, Argentina",
-      "mensaje": "Este es mi mensaje",
+      "mensaje": "Aguante Talleres!",
       "rol": "developer",
       "libertad_favorita": "0"
     }
